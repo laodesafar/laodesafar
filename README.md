@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laodesafar
-- 👀 I’m interested in Fullstack Web Developer
+- 👀 I’m interested in Frontend Web Developer
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on Learning Together
 
